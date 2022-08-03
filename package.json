@@ -2,5 +2,6 @@
   "name": "sass-ripple",
   "version": "1.0.1",
   "description": "",
-  "main": "sass-ripple.scss"
+  "main": "sass-ripple.scss",
+  "license": "LLVM-exception"
 }
